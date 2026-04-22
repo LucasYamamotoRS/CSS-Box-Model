@@ -2,7 +2,7 @@
 
 A focused web development project designed to demonstrate the fundamental concepts of the **CSS Box Model**. This project visualizes how margins, borders, and widths interact to create a structured "Poster" layout.
 
-** Live Demo:** [View the Project](https://lucasyamamotors.github.io/CSS-Box-Model/)
+**Link:** [View the Project](https://lucasyamamotors.github.io/CSS-Box-Model/)
 
 ##  Learning Objectives
 
